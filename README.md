@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Parag123ch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="35" height="35" /></h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="300" height="275" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="300" height="275" src="https://i.pinimg.com/736x/76/21/c4/7621c4aba8d16065242494ca15c7f1e9.jpg">
 
 - 🌱 I’m currently learning *AI/ML*
 
